@@ -1,0 +1,36 @@
+Customer,Salesperson,Continent,Country,Amount
+Ubisoft,Léodagan,Europe,France,100000.0
+Decathlon,Lancelot,Europe,France,150000.0
+Airbus,Karadoc,Europe,France,80000.0
+EDF,Bohort,Europe,France,120000.0
+Air France,Lancelot,Europe,France,70000.0
+Safran,Léodagan,Europe,France,60000.0
+Hermès,Perceval,Europe,France,90000.0
+Televisa,Léodagan,America,Mexico,80000.0
+América Móvil,Karadoc,America,Mexico,60000.0
+Elektra,Lancelot,America,Mexico,130000.0
+Alfa,Perceval,America,Mexico,60000.0
+Banorte,Bohort,America,Mexico,40000.0
+BBVA,Bohort,Europe,Spain,100000.0
+Seat,Lancelot,Europe,Spain,90000.0
+Mahou San Miguel,Karadoc,Europe,Spain,50000.0
+Ibermática,Léodagan,Europe,Spain,80000.0
+Tesla,Léodagan,America,USA,100000.0
+Lyft,Karadoc,America,USA,80000.0
+Intel,Lancelot,America,USA,130000.0
+Netflix,Bohort,America,USA,50000.0
+Snapchat,Perceval,America,USA,70000.0
+Enel,Lancelot,Europe,Italy,110000.0
+Poste Italiane,Perceval,Europe,Italy,60000.0
+Luxotica,Bohort,Europe,Italy,70000.0
+Trenitalia,Karadoc,Europe,Italy,90000.0
+Hydro-Québec,Lancelot,America,Canada,100000.0
+Power Corp.,Léodagan,America,Canada,80000.0
+Royal Bank of Canada,Karadoc,America,Canada,70000.0
+Imperial Oil,Perceval,America,Canada,70000.0
+Canadian National Railway,Bohort,America,Canada,60000.0
+Daimler AG,Karadoc,Europe,Germany,100000.0
+Allianz,Lancelot,Europe,Germany,110000.0
+BMW,Léodagan,Europe,Germany,90000.0
+Siemens,Perceval,Europe,Germany,80000.0
+Adidas,Bohort,Europe,Germany,70000.0
