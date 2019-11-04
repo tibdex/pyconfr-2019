@@ -1,3 +1,5 @@
+Link to the slides: [Dynamic dataviz in Python](https://www.slideshare.net/ThibaultDerousseaux/dynamic-dataviz-in-python)
+
 Python is today the main language for data analysis, but one step remains slow and not optimized: going from the notebook to visualization in BI applications for business users.
 In almost all cases, you need to rewrite the code in the language of the BI application, it's slow and badly suited to an agile approach with successive iterations.
 
